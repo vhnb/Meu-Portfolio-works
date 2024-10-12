@@ -1,0 +1,13 @@
+{
+    "works": [
+        {
+            "id":1,
+            "for": "Joãozinho",
+            "imgMain":"https://i.ibb.co/8K1pPkx/image.png",
+            "imgs": ["https://i.ibb.co/8K1pPkx/image.png", "https://i.ibb.co/jwq8xTr/image.png"],
+            "data": "11/10/2024",
+            "extendedDesc": "Projeto que fiz para o negócio do João, apenas uma landing page de uma tela de checkout.",
+            "skillsUsed":["Next.js", "TypeScript", "CSS"]
+        }
+    ]
+}
